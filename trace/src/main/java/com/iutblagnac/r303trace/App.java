@@ -10,6 +10,7 @@ public class App {
         System.out.println(hello());
     }
 
+    // implemented
     public static String hello() {
         return "Hello World!";
     }
