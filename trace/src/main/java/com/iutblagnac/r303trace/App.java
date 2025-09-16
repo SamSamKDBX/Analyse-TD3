@@ -15,6 +15,7 @@ public class App {
         return "Hello World!";
     }
 
+    // Echo implemented
     public static String hello(String param) {
         return param;
     }
